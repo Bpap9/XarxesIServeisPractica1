@@ -1,0 +1,5 @@
+folder-to-ignore/lib
+folder-to-ignore/bin
+folder-to-ignore/lib64
+folder-to-ignore/include
+folder-to-ignore/share
